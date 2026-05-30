@@ -1,0 +1,1 @@
+I want to copy the content from this file to the another file using fs module.
